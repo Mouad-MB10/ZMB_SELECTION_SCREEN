@@ -12,6 +12,18 @@
    <TPOOL>
     <item>
      <ID>I</ID>
+     <KEY>C01</KEY>
+     <ENTRY>Option 3</ENTRY>
+     <LENGTH>18</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>C02</KEY>
+     <ENTRY>Option 4</ENTRY>
+     <LENGTH>10</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
      <KEY>R01</KEY>
      <ENTRY>Type 1</ENTRY>
      <LENGTH>16</LENGTH>
@@ -35,9 +47,21 @@
      <LENGTH>21</LENGTH>
     </item>
     <item>
+     <ID>I</ID>
+     <KEY>T03</KEY>
+     <ENTRY>seperated screen</ENTRY>
+     <LENGTH>26</LENGTH>
+    </item>
+    <item>
      <ID>R</ID>
      <ENTRY>Program ZMB_SELECTION_SCREEN</ENTRY>
      <LENGTH>28</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>C1</KEY>
+     <ENTRY>option 3</ENTRY>
+     <LENGTH>16</LENGTH>
     </item>
     <item>
      <ID>S</ID>
@@ -49,6 +73,12 @@
      <ID>S</ID>
      <KEY>C12</KEY>
      <ENTRY>Select 2</ENTRY>
+     <LENGTH>16</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>C2</KEY>
+     <ENTRY>option 4</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
     <item>
